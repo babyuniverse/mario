@@ -99,13 +99,13 @@ body:after {
           animation-fill-mode: forwards;
 }
 .columns.columns-top {
-  background-image: url("https://gateway.pinata.cloud/ipfs/Qma1sj4ASXnZnH3cpzLcXFph5Y32wJYGKQCqmmiCEtgnq9");
+  background-image: url("https://gateway.pinata.cloud/ipfs/QmVKkPfrDKCG6HjfWMpDMpyt4Lwxz1p1WpNTwAtX7z7Ybp");
 }
 .columns.columns-center {
-  background-image: url("https://gateway.pinata.cloud/ipfs/QmQseJkeTndmVR4X59bt8sb6PQ8b7TSnLVQTjZrxWVAWYv");
+  background-image: url("https://gateway.pinata.cloud/ipfs/QmNvkSWj1CR5sWC8sFwo5dG8FrEyTU7tQVV6SYbBEfBv1A");
 }
 .columns.columns-bottom {
-  background-image: url("https://gateway.pinata.cloud/ipfs/Qmbq1dwX3wWP4s1QmAhXbfNfbHkRSfuAMoMEnGuBcN78Sx");
+  background-image: url("https://gateway.pinata.cloud/ipfs/Qmcz3doxAR8YM7S3PjxRQiqx3BmG5Q5imgiL2jm8uHUYX8");
 }
 .columns:after {
   content: "";
